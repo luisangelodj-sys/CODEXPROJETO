@@ -1,0 +1,884 @@
+CRONOGRAMA DE PRODUCAO DE IMAGENS PARA DESTAQUES
+Edson Cupido / Grupo Anjo Meu / TrueLove
+Data: 2026-06-16
+
+Objetivo:
+Criar um sistema profissional de destaques para Instagram, com capas, icones e stories internos em dimensoes corretas.
+
+Perfil principal:
+@cupidoedsonsouza
+
+Linha estrategica:
+Empresa seria de curadoria de relacionamento, com processo humano, privacidade, criterio e transparencia.
+
+
+============================================================
+1. FORMATOS CORRETOS
+============================================================
+
+1.1 CAPA DE DESTAQUE
+Formato recomendado:
+1080 x 1920 px
+Proporcao:
+9:16
+
+Area importante:
+O Instagram mostra a capa dentro de um circulo.
+Por isso, coloque o icone no centro da arte.
+
+Area segura para o icone:
+Centro da imagem.
+Manter o icone dentro de uma area aproximada de 520 x 520 px.
+
+Tamanho visual do icone:
+260 a 340 px de largura.
+
+Regra:
+Nao colocar texto pequeno na capa.
+O nome do destaque ja aparece abaixo do circulo no Instagram.
+
+
+1.2 ICONE AVULSO
+Formato recomendado:
+1024 x 1024 px
+Proporcao:
+1:1
+
+Uso:
+Gerar icones limpos para depois aplicar nas capas.
+
+Fundo:
+Preferencialmente transparente.
+Se a ferramenta nao gerar transparencia, usar fundo off-white ou bordô.
+
+Estilo:
+icone minimalista, traco fino, premium, dourado champanhe ou branco.
+
+
+1.3 STORY INTERNO DO DESTAQUE
+Formato:
+1080 x 1920 px
+Proporcao:
+9:16
+
+Safe area:
+Texto principal entre 260 px e 1450 px de altura.
+Evitar texto abaixo de 1600 px.
+Evitar texto colado no topo.
+
+Margem lateral:
+Minimo de 110 px de cada lado.
+
+Tamanho de texto:
+Titulo: grande e legivel.
+Apoio: medio.
+CTA: curto.
+
+
+1.4 NOME DOS ARQUIVOS
+Use este padrao:
+
+capa_01_processo.png
+capa_02_edson.png
+capa_03_curadoria.png
+capa_04_privacidade.png
+capa_05_historias.png
+capa_06_duvidas.png
+capa_07_canais.png
+capa_08_contrato.png
+
+icone_01_processo.png
+icone_02_edson.png
+icone_03_curadoria.png
+icone_04_privacidade.png
+icone_05_historias.png
+icone_06_duvidas.png
+icone_07_canais.png
+icone_08_contrato.png
+
+story_01_processo_slide_01.png
+story_01_processo_slide_02.png
+story_01_processo_slide_03.png
+story_01_processo_slide_04.png
+
+
+============================================================
+2. CRONOGRAMA DE PRODUCAO
+============================================================
+
+DIA 1 - DEFINIR IDENTIDADE VISUAL
+Objetivo:
+Criar o padrao visual antes de gerar qualquer arte.
+
+Entregas:
+- paleta de cores
+- estilo dos icones
+- modelo de capa
+- modelo de story
+
+Prompt a usar:
+Ver secao 4 - Prompt Mestre de Identidade Visual.
+
+
+DIA 2 - CRIAR OS ICONES AVULSOS
+Objetivo:
+Criar 8 icones em formato quadrado para usar nas capas.
+
+Entregas:
+- icone_01_processo.png
+- icone_02_edson.png
+- icone_03_curadoria.png
+- icone_04_privacidade.png
+- icone_05_historias.png
+- icone_06_duvidas.png
+- icone_07_canais.png
+- icone_08_contrato.png
+
+Dimensao:
+1024 x 1024 px
+
+Prompt a usar:
+Ver secao 5 - Prompts dos Icones.
+
+
+DIA 3 - CRIAR AS CAPAS DOS DESTAQUES
+Objetivo:
+Criar 8 capas com a mesma identidade visual.
+
+Entregas:
+- capa_01_processo.png
+- capa_02_edson.png
+- capa_03_curadoria.png
+- capa_04_privacidade.png
+- capa_05_historias.png
+- capa_06_duvidas.png
+- capa_07_canais.png
+- capa_08_contrato.png
+
+Dimensao:
+1080 x 1920 px
+
+Prompt a usar:
+Ver secao 6 - Prompts das Capas.
+
+
+DIA 4 - CRIAR STORIES DOS DESTAQUES PROCESSO E EDSON
+Objetivo:
+Comecar pelos destaques que explicam quem e e como funciona.
+
+Entregas:
+- 4 stories para Processo
+- 4 stories para Edson
+
+Dimensao:
+1080 x 1920 px
+
+Prompt a usar:
+Ver secao 7 - Prompts dos Stories Internos.
+
+
+DIA 5 - CRIAR STORIES DOS DESTAQUES CURADORIA E PRIVACIDADE
+Objetivo:
+Mostrar metodo e reduzir medo de exposicao.
+
+Entregas:
+- 4 stories para Curadoria
+- 4 stories para Privacidade
+
+Dimensao:
+1080 x 1920 px
+
+
+DIA 6 - CRIAR STORIES DOS DESTAQUES HISTORIAS E DUVIDAS
+Objetivo:
+Criar prova social segura e responder objecoes.
+
+Entregas:
+- 4 stories para Historias
+- 4 stories para Duvidas
+
+Dimensao:
+1080 x 1920 px
+
+
+DIA 7 - CRIAR STORIES DOS DESTAQUES CANAIS E CONTRATO
+Objetivo:
+Organizar os canais oficiais e reforcar transparencia.
+
+Entregas:
+- 4 stories para Canais
+- 4 stories para Contrato
+
+Dimensao:
+1080 x 1920 px
+
+
+DIA 8 - REVISAO FINAL E PUBLICACAO
+Objetivo:
+Revisar texto, visual, seguranca Meta e ordem de publicacao.
+
+Checklist:
+- todos os textos estao dentro da safe area?
+- os icones aparecem bem dentro do circulo do destaque?
+- nenhum destaque promete relacionamento garantido?
+- nenhum story usa "alma gemea garantida", "amor da vida" ou "resultado certo"?
+- os canais oficiais estao corretos?
+- a ordem dos destaques esta correta?
+
+Ordem de publicacao:
+1. Publicar stories do destaque Processo e salvar em "Processo".
+2. Publicar stories do destaque Edson e salvar em "Edson".
+3. Publicar stories do destaque Curadoria e salvar em "Curadoria".
+4. Publicar stories do destaque Privacidade e salvar em "Privacidade".
+5. Publicar stories do destaque Historias e salvar em "Historias".
+6. Publicar stories do destaque Duvidas e salvar em "Duvidas".
+7. Publicar stories do destaque Canais e salvar em "Canais".
+8. Publicar stories do destaque Contrato e salvar em "Contrato".
+9. Editar as capas usando as artes de capa.
+
+
+============================================================
+3. PALETA VISUAL RECOMENDADA
+============================================================
+
+Cor principal:
+Bordô profundo
+Hex sugerido: #4B0F1E
+
+Cor secundaria:
+Grafite escuro
+Hex sugerido: #1E1E1E
+
+Cor premium:
+Dourado champanhe
+Hex sugerido: #C8A45D
+
+Base clara:
+Off-white
+Hex sugerido: #F7F1E8
+
+Apoio suave:
+Nude rosado
+Hex sugerido: #D8B6AA
+
+Regra:
+Nao deixar tudo rosa.
+Nao deixar tudo dourado.
+O visual precisa parecer agencia premium, nao pagina romantica popular.
+
+
+============================================================
+4. PROMPT MESTRE DE IDENTIDADE VISUAL
+============================================================
+
+Use este prompt antes de criar as pecas:
+
+Crie uma identidade visual premium para os destaques do Instagram de Edson Cupido / Grupo Anjo Meu / TrueLove.
+
+A marca atua com curadoria humana para relacionamento serio, atendimento discreto, processo reservado, privacidade e criterios de compatibilidade.
+
+A identidade deve transmitir:
+- empresa seria
+- confianca
+- discricao
+- relacionamento maduro
+- atendimento humano
+- privacidade
+- sofisticacao
+- clareza institucional
+
+Dimensoes principais:
+- capas de destaque em 1080 x 1920 px
+- stories internos em 1080 x 1920 px
+- icones avulsos em 1024 x 1024 px
+
+Paleta:
+- bordô profundo #4B0F1E
+- grafite escuro #1E1E1E
+- dourado champanhe #C8A45D
+- off-white #F7F1E8
+- nude rosado #D8B6AA
+
+Estilo:
+- minimalista
+- premium
+- limpo
+- elegante
+- sem excesso de coracoes
+- sem aparencia popular
+- sem promessas romanticas exageradas
+- com monograma EC discreto
+- com acabamento institucional
+
+Tipografia:
+- titulo serifado elegante
+- texto de apoio sans-serif moderno
+
+Regras:
+- textos dentro da safe area
+- margem lateral minima de 110 px
+- nao colocar texto pequeno na capa
+- icones sempre centralizados
+- visual consistente em todos os destaques
+- nao usar linguagem de promessa amorosa garantida
+- nao usar "alma gemea garantida", "amor da vida" ou "resultado certo"
+
+Crie uma direcao visual completa para esse sistema de destaques.
+
+
+============================================================
+5. PROMPTS DOS ICONES AVULSOS
+============================================================
+
+Padrao tecnico de todos os icones:
+1024 x 1024 px, icone central, minimalista, traco fino, dourado champanhe, estilo premium, sem texto, sem sombra pesada, sem foto, sem pessoas reais.
+
+5.1 ICONE PROCESSO
+Prompt:
+Crie um icone avulso em 1024 x 1024 px, fundo transparente, estilo minimalista premium, traco fino em dourado champanhe, representando um caminho com etapas ou fluxo de curadoria. O icone deve transmitir processo, orientacao e clareza. Sem texto, sem foto, sem excesso de detalhes.
+
+5.2 ICONE EDSON
+Prompt:
+Crie um icone avulso em 1024 x 1024 px, fundo transparente, estilo minimalista premium, traco fino em dourado champanhe, com monograma EC integrado a uma silhueta humana discreta. Deve transmitir autoridade pessoal, acolhimento e confianca. Sem rosto realista, sem texto longo.
+
+5.3 ICONE CURADORIA
+Prompt:
+Crie um icone avulso em 1024 x 1024 px, fundo transparente, estilo minimalista premium, traco fino em dourado champanhe, representando uma lupa analisando dois perfis ou duas linhas se conectando. Deve transmitir selecao cuidadosa, criterio e compatibilidade. Sem aparencia de aplicativo de namoro.
+
+5.4 ICONE PRIVACIDADE
+Prompt:
+Crie um icone avulso em 1024 x 1024 px, fundo transparente, estilo minimalista premium, traco fino em dourado champanhe, com escudo, cadeado e um pequeno coracao discreto. Deve transmitir seguranca, privacidade e cuidado. Visual serio, sem romantismo exagerado.
+
+5.5 ICONE HISTORIAS
+Prompt:
+Crie um icone avulso em 1024 x 1024 px, fundo transparente, estilo minimalista premium, traco fino em dourado champanhe, com livro aberto e pequeno coracao discreto. Deve transmitir historias autorizadas, trajetoria e conexao humana. Sem visual infantil.
+
+5.6 ICONE DUVIDAS
+Prompt:
+Crie um icone avulso em 1024 x 1024 px, fundo transparente, estilo minimalista premium, traco fino em dourado champanhe, com ponto de interrogacao elegante dentro de um circulo fino. Deve transmitir clareza, orientacao e FAQ profissional. Sem efeito chamativo.
+
+5.7 ICONE CANAIS
+Prompt:
+Crie um icone avulso em 1024 x 1024 px, fundo transparente, estilo minimalista premium, traco fino em dourado champanhe, representando links oficiais, rede conectada ou globo com pontos conectados. Deve transmitir canais oficiais e confianca digital. Sem logos de redes sociais.
+
+5.8 ICONE CONTRATO
+Prompt:
+Crie um icone avulso em 1024 x 1024 px, fundo transparente, estilo minimalista premium, traco fino em dourado champanhe, representando documento, checklist e assinatura. Deve transmitir transparencia, regras claras e seriedade. Sem visual juridico pesado.
+
+
+============================================================
+6. PROMPTS DAS CAPAS DOS DESTAQUES
+============================================================
+
+Padrao tecnico de todas as capas:
+1080 x 1920 px, proporcao 9:16, icone central dentro de area segura circular, fundo premium, sem texto pequeno, monograma EC discreto, acabamento institucional.
+
+6.1 CAPA PROCESSO
+Prompt:
+Crie uma capa de destaque para Instagram em 1080 x 1920 px para Edson Cupido / Grupo Anjo Meu. Fundo bordô profundo #4B0F1E, icone central minimalista de caminho com etapas em dourado champanhe #C8A45D, monograma EC discreto no rodape. O icone deve ficar exatamente no centro, dentro de uma area segura circular de 520 x 520 px. Visual premium, limpo, serio e sofisticado. Sem texto pequeno, sem foto, sem coracoes exagerados.
+
+6.2 CAPA EDSON
+Prompt:
+Crie uma capa de destaque para Instagram em 1080 x 1920 px para Edson Cupido. Fundo grafite escuro #1E1E1E, monograma EC central com silhueta humana discreta em dourado champanhe #C8A45D. O icone deve ficar no centro e funcionar bem no corte circular do destaque. Visual institucional, premium, confiavel e humano. Sem rosto realista, sem texto pequeno.
+
+6.3 CAPA CURADORIA
+Prompt:
+Crie uma capa de destaque para Instagram em 1080 x 1920 px. Fundo off-white #F7F1E8, detalhes bordô #4B0F1E e icone central de lupa/curadoria em dourado champanhe #C8A45D. O icone deve representar selecao cuidadosa e compatibilidade, sem parecer app de namoro. Deixar o icone centralizado dentro da area segura circular. Visual premium e limpo.
+
+6.4 CAPA PRIVACIDADE
+Prompt:
+Crie uma capa de destaque para Instagram em 1080 x 1920 px. Fundo bordô profundo #4B0F1E, icone central de escudo com cadeado e pequeno coracao discreto em dourado champanhe #C8A45D. Visual serio, seguro, discreto e premium. O icone precisa aparecer perfeitamente no corte circular do destaque. Sem texto pequeno.
+
+6.5 CAPA HISTORIAS
+Prompt:
+Crie uma capa de destaque para Instagram em 1080 x 1920 px. Fundo nude rosado suave #D8B6AA com acabamento off-white, icone central de livro aberto com coracao discreto em bordô e dourado champanhe. Visual sofisticado, emocional na medida certa e profissional. O icone deve ficar centralizado para corte circular.
+
+6.6 CAPA DUVIDAS
+Prompt:
+Crie uma capa de destaque para Instagram em 1080 x 1920 px. Fundo grafite escuro #1E1E1E, icone central de ponto de interrogacao elegante em dourado champanhe #C8A45D, com circulo fino ao redor. Visual premium, simples, profissional e facil de entender no tamanho pequeno do destaque. Sem texto pequeno.
+
+6.7 CAPA CANAIS
+Prompt:
+Crie uma capa de destaque para Instagram em 1080 x 1920 px. Fundo off-white #F7F1E8, icone central de rede conectada ou link oficial em bordô profundo #4B0F1E com detalhes dourado champanhe #C8A45D. Visual institucional, limpo e confiavel. O icone deve estar no centro, dentro da area circular visivel do destaque.
+
+6.8 CAPA CONTRATO
+Prompt:
+Crie uma capa de destaque para Instagram em 1080 x 1920 px. Fundo bordô profundo #4B0F1E, icone central de documento com checklist e assinatura em dourado champanhe #C8A45D. Visual serio, transparente, sofisticado e profissional. Sem texto pequeno, sem aparencia burocratica pesada.
+
+
+============================================================
+7. PROMPT MODELO PARA STORIES INTERNOS
+============================================================
+
+Use este modelo para cada slide:
+
+Crie um Instagram Story em 1080 x 1920 px para Edson Cupido / Grupo Anjo Meu / TrueLove.
+
+Contexto da marca:
+Curadoria humana para relacionamento serio, atendimento discreto, privacidade, processo com criterio e transparencia.
+
+Visual:
+- premium
+- limpo
+- institucional
+- sofisticado
+- bordô profundo, grafite, dourado champanhe, off-white e nude rosado
+- titulo serifado elegante
+- texto de apoio em sans-serif moderno
+- monograma EC discreto no rodape
+- sem foto de pessoas reais
+- sem excesso de coracoes
+- sem visual popular
+
+Dimensao:
+1080 x 1920 px
+
+Safe area:
+Manter texto principal entre 260 px e 1450 px de altura.
+Manter margem lateral minima de 110 px.
+Nao colocar CTA abaixo de 1600 px.
+
+Texto principal:
+"[INSERIR TEXTO PRINCIPAL]"
+
+Texto de apoio:
+"[INSERIR TEXTO DE APOIO]"
+
+CTA:
+"[INSERIR CTA]"
+
+Objetivo do slide:
+"[INSERIR OBJETIVO]"
+
+Regras:
+Nao usar promessa de relacionamento garantido.
+Nao usar alma gemea garantida.
+Nao usar amor da vida.
+Nao usar resultado certo.
+Transmitir confianca no processo, nao promessa afetiva.
+
+
+============================================================
+8. CRONOGRAMA DOS STORIES COM TEXTO E PROMPT CURTO
+============================================================
+
+DESTAQUE 1 - PROCESSO
+
+Slide 1
+Texto principal:
+Como funciona a curadoria?
+Texto de apoio:
+Tudo comeca por uma conversa inicial, feita com criterio e discricao.
+CTA:
+Veja as etapas
+Prompt curto:
+Crie Story 1080 x 1920 px premium para Edson Cupido, fundo bordô, titulo "Como funciona a curadoria?", apoio "Tudo comeca por uma conversa inicial, feita com criterio e discricao.", CTA "Veja as etapas", monograma EC discreto, layout limpo e seguro.
+
+Slide 2
+Texto principal:
+1. Conversa inicial
+Texto de apoio:
+Entendemos sua fase, seus valores e sua intencao.
+CTA:
+Proximo passo
+Prompt curto:
+Crie Story 1080 x 1920 px com visual premium, fundo off-white, numero 1 destacado, texto "Conversa inicial", apoio "Entendemos sua fase, seus valores e sua intencao.", CTA "Proximo passo", estilo institucional.
+
+Slide 3
+Texto principal:
+2. Analise com criterio
+Texto de apoio:
+Compatibilidade envolve valores, momento de vida e interesse mutuo.
+CTA:
+Continue
+Prompt curto:
+Crie Story 1080 x 1920 px premium, icone de curadoria/lupa discreto, texto "2. Analise com criterio", apoio "Compatibilidade envolve valores, momento de vida e interesse mutuo.", CTA "Continue".
+
+Slide 4
+Texto principal:
+3. Apresentacao com cuidado
+Texto de apoio:
+Quando existe alinhamento, a equipe orienta os proximos passos.
+CTA:
+Fale com a equipe
+Prompt curto:
+Crie Story 1080 x 1920 px premium, fundo grafite com detalhes dourados, texto "3. Apresentacao com cuidado", apoio "Quando existe alinhamento, a equipe orienta os proximos passos.", CTA "Fale com a equipe".
+
+
+DESTAQUE 2 - EDSON
+
+Slide 1
+Texto principal:
+Quem e Edson Cupido?
+Texto de apoio:
+Uma historia dedicada a aproximar pessoas com mais criterio.
+CTA:
+Conheca
+Prompt curto:
+Crie Story 1080 x 1920 px premium para Edson Cupido, monograma EC, visual institucional, texto "Quem e Edson Cupido?", apoio "Uma historia dedicada a aproximar pessoas com mais criterio.", CTA "Conheca".
+
+Slide 2
+Texto principal:
+Mais que apresentar pessoas
+Texto de apoio:
+O trabalho envolve escuta, orientacao e responsabilidade.
+CTA:
+Entenda a proposta
+Prompt curto:
+Crie Story 1080 x 1920 px com fundo bordô, detalhes dourados, texto "Mais que apresentar pessoas", apoio "O trabalho envolve escuta, orientacao e responsabilidade.", CTA "Entenda a proposta".
+
+Slide 3
+Texto principal:
+Grupo Anjo Meu | TrueLove
+Texto de apoio:
+Marcas ligadas a uma proposta de relacionamento serio e acompanhado.
+CTA:
+Veja os canais
+Prompt curto:
+Crie Story 1080 x 1920 px institucional, fundo off-white, texto "Grupo Anjo Meu | TrueLove", apoio "Marcas ligadas a uma proposta de relacionamento serio e acompanhado.", CTA "Veja os canais".
+
+Slide 4
+Texto principal:
+Autoridade com responsabilidade
+Texto de apoio:
+Promessa nao substitui processo.
+CTA:
+Como funciona
+Prompt curto:
+Crie Story 1080 x 1920 px premium, visual serio, texto "Autoridade com responsabilidade", apoio "Promessa nao substitui processo.", CTA "Como funciona".
+
+
+DESTAQUE 3 - CURADORIA
+
+Slide 1
+Texto principal:
+Nao e catalogo.
+Texto de apoio:
+E um processo humano de curadoria.
+CTA:
+Entenda a diferenca
+
+Slide 2
+Texto principal:
+Menos pressa. Mais criterio.
+Texto de apoio:
+Relacionamento serio precisa de contexto, valores e intencao.
+CTA:
+Veja o processo
+
+Slide 3
+Texto principal:
+Interesse mutuo importa.
+Texto de apoio:
+Nenhuma apresentacao deve ser tratada como garantia.
+CTA:
+Fale com a equipe
+
+Slide 4
+Texto principal:
+Curadoria com respeito.
+Texto de apoio:
+Cada historia exige cuidado, privacidade e clareza.
+CTA:
+Conheca os criterios
+
+Prompt para os 4 slides:
+Crie 4 Stories em 1080 x 1920 px para o destaque "Curadoria" de Edson Cupido. Visual premium, bordô, off-white, grafite e dourado champanhe. Usar textos dos slides indicados. Manter estilo limpo, institucional, com icones de lupa, criterio e conexao humana. Nao usar fotos de pessoas reais. Nao prometer resultado afetivo.
+
+
+DESTAQUE 4 - PRIVACIDADE
+
+Slide 1
+Texto principal:
+Privacidade em primeiro lugar.
+Texto de apoio:
+Discricao nao e detalhe. E parte do processo.
+CTA:
+Veja como cuidamos disso
+
+Slide 2
+Texto principal:
+Perfil autorizado.
+Texto de apoio:
+Conteudos com pessoas reais precisam de permissao e contexto.
+CTA:
+Entenda o cuidado
+
+Slide 3
+Texto principal:
+Dados com finalidade.
+Texto de apoio:
+Informacoes pessoais devem ser usadas com clareza.
+CTA:
+Use canais oficiais
+
+Slide 4
+Texto principal:
+Atendimento +18.
+Texto de apoio:
+Relacionamento serio exige responsabilidade.
+CTA:
+Fale com a equipe
+
+Prompt para os 4 slides:
+Crie 4 Stories em 1080 x 1920 px para o destaque "Privacidade" de Edson Cupido. Visual serio, premium e seguro, com escudo, cadeado, linhas finas e detalhes dourados. Usar textos dos slides indicados. Nao usar imagem de pessoas reais. Reforcar discricao, autorizacao, finalidade e atendimento +18.
+
+
+DESTAQUE 5 - HISTORIAS
+
+Slide 1
+Texto principal:
+Historias com autorizacao.
+Texto de apoio:
+Prova social precisa respeitar privacidade.
+CTA:
+Veja com responsabilidade
+
+Slide 2
+Texto principal:
+Cada historia tem seu tempo.
+Texto de apoio:
+Relacionamento serio nao nasce de pressa.
+CTA:
+Entenda o processo
+
+Slide 3
+Texto principal:
+O foco nao e promessa.
+Texto de apoio:
+O foco e aproximar pessoas com intencao e criterio.
+CTA:
+Converse com a equipe
+
+Slide 4
+Texto principal:
+Historias reais. Cuidado real.
+Texto de apoio:
+A forma de contar tambem importa.
+CTA:
+Veja os canais oficiais
+
+Prompt para os 4 slides:
+Crie 4 Stories em 1080 x 1920 px para o destaque "Historias" de Edson Cupido. Visual emocional, elegante e discreto, com livro aberto, linhas suaves e detalhes dourados. Usar textos dos slides indicados. Nao usar fotos de clientes. Nao prometer que historias se repetem. Transmitir prova social com responsabilidade.
+
+
+DESTAQUE 6 - DUVIDAS
+
+Slide 1
+Texto principal:
+Preciso me expor?
+Texto de apoio:
+Nao. A proposta e trabalhar com mais discricao.
+CTA:
+Tire suas duvidas
+
+Slide 2
+Texto principal:
+Existe garantia?
+Texto de apoio:
+Nao prometemos resultado afetivo.
+CTA:
+Entenda antes
+
+Slide 3
+Texto principal:
+E para quem?
+Texto de apoio:
+Adultos que buscam relacionamento serio com mais criterio.
+CTA:
+Veja se faz sentido
+
+Slide 4
+Texto principal:
+Como comeco?
+Texto de apoio:
+Pelo canal oficial de atendimento.
+CTA:
+Use canais oficiais
+
+Prompt para os 4 slides:
+Crie 4 Stories em 1080 x 1920 px para o destaque "Duvidas" de Edson Cupido. Visual premium, claro, FAQ sofisticado, fundo off-white/grafite, detalhes bordô e dourado. Usar textos dos slides indicados. O design deve parecer atendimento serio, nao propaganda romantica.
+
+
+DESTAQUE 7 - CANAIS
+
+Slide 1
+Texto principal:
+Canais oficiais.
+Texto de apoio:
+Use apenas links verificados do Edson e das agencias.
+CTA:
+Confira os canais
+
+Slide 2
+Texto principal:
+Instagram.
+Texto de apoio:
+Perfil principal: @cupidoedsonsouza
+CTA:
+Siga o oficial
+
+Slide 3
+Texto principal:
+Sites oficiais.
+Texto de apoio:
+Anjo Meu, TrueLove e central de atendimento.
+CTA:
+Acesse pela bio
+
+Slide 4
+Texto principal:
+WhatsApp oficial.
+Texto de apoio:
+Atendimento com clareza e orientacao.
+CTA:
+Fale com a equipe
+
+Prompt para os 4 slides:
+Crie 4 Stories em 1080 x 1920 px para o destaque "Canais" de Edson Cupido. Visual institucional, com icones de link, globo e rede conectada. Usar textos dos slides indicados. Transmitir seguranca digital, canais oficiais e prevencao contra confusao de perfis.
+
+
+DESTAQUE 8 - CONTRATO
+
+Slide 1
+Texto principal:
+Transparencia tambem e cuidado.
+Texto de apoio:
+Todo servico serio precisa ter regras claras.
+CTA:
+Leia antes
+
+Slide 2
+Texto principal:
+Processo, nao promessa.
+Texto de apoio:
+A agencia nao garante relacionamento.
+CTA:
+Entenda os limites
+
+Slide 3
+Texto principal:
+Clareza protege todos.
+Texto de apoio:
+Cliente, equipe e pessoas apresentadas precisam de seguranca.
+CTA:
+Tire duvidas
+
+Slide 4
+Texto principal:
+Antes de comecar.
+Texto de apoio:
+Leia, pergunte e entenda o funcionamento.
+CTA:
+Fale pelo canal oficial
+
+Prompt para os 4 slides:
+Crie 4 Stories em 1080 x 1920 px para o destaque "Contrato" de Edson Cupido. Visual serio, juridico leve, premium e confiavel, com icones de documento, assinatura e checklist. Usar textos dos slides indicados. Nao deixar pesado ou burocratico demais. Mostrar transparencia e responsabilidade.
+
+
+============================================================
+9. PROMPT FINAL PARA GERAR TODAS AS CAPAS DE UMA VEZ
+============================================================
+
+Crie um conjunto de 8 capas de destaques para Instagram em 1080 x 1920 px, uma arte separada para cada destaque da marca Edson Cupido / Grupo Anjo Meu / TrueLove.
+
+Destaques:
+1. Processo
+2. Edson
+3. Curadoria
+4. Privacidade
+5. Historias
+6. Duvidas
+7. Canais
+8. Contrato
+
+Estilo visual:
+- premium
+- institucional
+- sofisticado
+- discreto
+- relacionamento serio
+- curadoria humana
+- privacidade
+- confianca
+
+Paleta:
+- bordô profundo #4B0F1E
+- grafite escuro #1E1E1E
+- dourado champanhe #C8A45D
+- off-white #F7F1E8
+- nude rosado #D8B6AA
+
+Regras tecnicas:
+- cada capa em 1080 x 1920 px
+- icone centralizado para corte circular do Instagram
+- icone dentro de area segura de 520 x 520 px
+- nao colocar texto pequeno dentro da arte
+- monograma EC discreto
+- manter consistencia visual entre as 8 capas
+- sem fotos de pessoas reais
+- sem excesso de coracoes
+- sem linguagem de promessa amorosa
+
+Icones:
+- Processo: etapas ou caminho
+- Edson: monograma EC ou silhueta discreta
+- Curadoria: lupa ou selecao cuidadosa
+- Privacidade: escudo e cadeado
+- Historias: livro aberto
+- Duvidas: ponto de interrogacao elegante
+- Canais: link, globo ou rede conectada
+- Contrato: documento/checklist
+
+
+============================================================
+10. PROMPT FINAL PARA GERAR TODOS OS STORIES DE UM DESTAQUE
+============================================================
+
+Crie 4 Instagram Stories em 1080 x 1920 px para o destaque [NOME DO DESTAQUE] da marca Edson Cupido / Grupo Anjo Meu / TrueLove.
+
+A marca trabalha com curadoria humana para relacionamento serio, privacidade, criterio e atendimento discreto.
+
+Visual:
+- premium
+- limpo
+- institucional
+- elegante
+- bordô profundo, grafite, dourado champanhe, off-white e nude rosado
+- titulo serifado
+- apoio sans-serif
+- monograma EC discreto no rodape
+- safe area respeitada
+- margem lateral minima de 110 px
+- sem fotos de pessoas reais
+- sem promessas exageradas
+
+Slides:
+Slide 1:
+Texto principal: [TEXTO]
+Texto de apoio: [TEXTO]
+CTA: [CTA]
+
+Slide 2:
+Texto principal: [TEXTO]
+Texto de apoio: [TEXTO]
+CTA: [CTA]
+
+Slide 3:
+Texto principal: [TEXTO]
+Texto de apoio: [TEXTO]
+CTA: [CTA]
+
+Slide 4:
+Texto principal: [TEXTO]
+Texto de apoio: [TEXTO]
+CTA: [CTA]
+
+Regras:
+Nao usar "amor garantido".
+Nao usar "alma gemea garantida".
+Nao usar "resultado certo".
+Nao expor dados pessoais.
+Nao parecer catalogo de pessoas.
+Vender confianca no processo, nao promessa afetiva.
+

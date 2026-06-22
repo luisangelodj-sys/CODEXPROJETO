@@ -1,0 +1,693 @@
+PROMPTS PARA CODES - PROGRAMA 30 DIAS DE MARKETING E TRAFEGO
+Projeto: Edson Cupido / Grupo Anjo Meu / TrueLove
+Data: 2026-06-19
+
+Objetivo deste arquivo:
+Dar comandos poderosos para o CODES montar um programa completo de 30 dias com:
+- estrategia de marketing;
+- calendario de campanhas;
+- campanha Meta Ads;
+- criativos estaticos;
+- videos para Eon;
+- videos com membros da agencia;
+- YouTube;
+- Facebook;
+- Instagram;
+- WhatsApp;
+- planilha operacional Excel;
+- DOC executivo.
+
+Regra central:
+Nao misturar com outros nichos. Este projeto e exclusivamente de relacionamento serio, agencia de namoro e curadoria humana para adultos.
+
+
+============================================================
+PROMPT 1 - PROMPT MESTRE PARA O CODES
+============================================================
+
+Copie e envie para o CODES:
+
+Voce e um estrategista senior de marketing, growth marketing, social media, Meta Ads, YouTube Ads, Google Ads, copywriting, planejamento de criativos e funil de leads.
+
+Este projeto e exclusivo do nicho:
+Edson Cupido / Grupo Anjo Meu / TrueLove / agencia de namoro / curadoria humana para relacionamento serio.
+
+REGRA PRINCIPAL:
+Nao misture dores, promessas, ganchos, objecoes, linguagem ou estrategias de outros nichos.
+Use apenas principios universais de marketing, funil, retencao, conversao, criativos, metricas e otimizacao.
+
+CONTEXTO DO NEGOCIO:
+O Edson Cupido posta videos de pessoas que sao membros/clientes autorizados da agencia.
+Esses videos geram comentarios, curtidas, compartilhamentos, perguntas e interesse no funcionamento da agencia.
+A intencao agora e transformar esse engajamento em leads qualificados com campanhas de trafego pago e um programa de marketing de 30 dias.
+
+O negocio vende:
+- curadoria humana para relacionamento serio;
+- entrevista;
+- triagem;
+- analise de perfil;
+- atendimento profissional;
+- privacidade;
+- possiveis apresentacoes conforme compatibilidade e interesse mutuo.
+
+O negocio NAO vende:
+- amor garantido;
+- casamento garantido;
+- namoro garantido;
+- alma gemea garantida;
+- resultado afetivo certo;
+- catalogo de pessoas;
+- exploracao de solidao.
+
+LINGUAGEM SEGURA:
+Usar:
+- relacionamento serio;
+- curadoria humana;
+- entrevista;
+- privacidade;
+- criterio;
+- compatibilidade;
+- interesse mutuo;
+- atendimento profissional;
+- historia autorizada;
+- processo reservado;
+- maiores de 18 anos.
+
+Evitar:
+- voce esta sozinho;
+- ninguem te quer;
+- encontre o amor da sua vida;
+- garantia de encontrar alguem;
+- alma gemea;
+- promessa de casamento;
+- resultado certo;
+- 99% de acerto sem prova;
+- expor renda, estado civil, cidade, profissao ou vulnerabilidade sem necessidade.
+
+IMPORTANTE SOBRE META ADS:
+Antes de montar as campanhas, considerar que anuncios de namoro/dating podem exigir permissao previa da Meta e precisam seguir as politicas de anuncios de dating, atributos pessoais, privacidade, conteudo adulto, fraude/promessa enganosa e experiencia segura.
+Nao criar campanhas com linguagem que implique atributos pessoais sensiveis diretamente no usuario.
+Nao usar perguntas do tipo: "Voce esta sozinho?", "Voce e divorciado?", "Voce nao consegue encontrar alguem?".
+
+OBJETIVO PRINCIPAL:
+Criar um programa de 30 dias para gerar leads qualificados para a agencia, organizando campanhas, criativos, conteudos organicos, funil, WhatsApp, metricas e otimizacao.
+
+ENTREGAS OBRIGATORIAS:
+1. DOC executivo para leitura dinamica.
+2. Planilha Excel operacional com abas separadas.
+3. Calendario de 30 dias.
+4. Estrutura de campanhas Meta Ads.
+5. Criativos estaticos para gerar no ChatGPT.
+6. Criativos em video para gerar no Eon.
+7. Roteiros para videos com membros/clientes autorizados.
+8. Estrategia de YouTube.
+9. Estrategia de Facebook e Instagram.
+10. Funil de WhatsApp e qualificacao.
+11. Checklist de conformidade Meta.
+12. Metricas e regra de otimizacao.
+
+FORMATO DA PLANILHA EXCEL:
+Criar uma planilha com as seguintes abas:
+
+00 LEIA PRIMEIRO
+- objetivo do projeto;
+- como usar a planilha;
+- status;
+- regra de aprovacao;
+- cuidado Meta;
+- funil geral.
+
+01 PAINEL GERAL
+- objetivo;
+- nicho;
+- publico;
+- promessa segura;
+- canais;
+- oferta;
+- CTA principal;
+- risco;
+- prioridade.
+
+02 FUNIL DE LEADS
+- etapa;
+- objetivo;
+- canal;
+- mensagem;
+- criativo;
+- CTA;
+- destino;
+- metrica;
+- risco;
+- proxima acao.
+
+03 CALENDARIO MASTER 30 DIAS
+- dia;
+- data;
+- fase;
+- canal;
+- tipo;
+- campanha;
+- objetivo;
+- tema;
+- gancho;
+- CTA;
+- criativo necessario;
+- responsavel;
+- status;
+- risco Meta.
+
+04 META ADS - CAMPANHAS
+- campanha;
+- objetivo Meta sugerido;
+- fase do funil;
+- publico;
+- posicionamentos;
+- verba sugerida;
+- criativos;
+- copy principal;
+- headline;
+- CTA;
+- destino;
+- KPI principal;
+- regra de otimizacao;
+- risco.
+
+05 META ADS - PUBLICOS
+- nome do publico;
+- tipo;
+- fonte;
+- inclusoes;
+- exclusoes;
+- janela;
+- objetivo;
+- observacao;
+- risco.
+
+06 CRIATIVOS ESTATICOS
+- ID;
+- campanha;
+- canal;
+- formato;
+- dimensao;
+- headline;
+- subheadline;
+- texto da arte;
+- CTA;
+- direcao visual;
+- prompt para ChatGPT;
+- status.
+
+07 CRIATIVOS VIDEO EON
+- ID;
+- campanha;
+- formato;
+- duracao;
+- dimensao;
+- gancho inicial;
+- roteiro;
+- texto na tela;
+- cenas;
+- b-roll;
+- CTA;
+- prompt para Eon;
+- risco;
+- status.
+
+08 VIDEOS COM MEMBROS
+- ID;
+- perfil;
+- autorizacao;
+- tema;
+- pergunta segura;
+- pergunta a evitar;
+- roteiro base;
+- corte ideal;
+- texto na tela;
+- legenda;
+- CTA;
+- risco;
+- status.
+
+09 ORGANICO INSTAGRAM E FACEBOOK
+- dia;
+- canal;
+- formato;
+- tema;
+- gancho;
+- legenda;
+- CTA;
+- objetivo;
+- risco;
+- status.
+
+10 YOUTUBE E SHORTS
+- dia;
+- formato;
+- tema;
+- titulo;
+- gancho;
+- roteiro;
+- thumbnail;
+- descricao;
+- CTA;
+- objetivo;
+- status.
+
+11 WHATSAPP E QUALIFICACAO
+- etapa;
+- mensagem;
+- pergunta;
+- objetivo;
+- criterio de qualificacao;
+- resposta segura;
+- proxima acao;
+- tag;
+- observacao.
+
+12 METRICAS E OTIMIZACAO
+- dia;
+- campanha;
+- investimento;
+- alcance;
+- impressoes;
+- CTR;
+- CPC;
+- CPL;
+- leads;
+- conversas WhatsApp;
+- taxa de qualificacao;
+- custo por lead qualificado;
+- decisao;
+- acao.
+
+13 APROVACAO
+- item;
+- tipo;
+- responsavel;
+- status;
+- comentario;
+- data de aprovacao;
+- ajuste necessario.
+
+14 CHECKLIST META
+- item;
+- pergunta de seguranca;
+- risco;
+- aprovado/revisar;
+- observacao.
+
+FORMATO DO DOC EXECUTIVO:
+Criar um DOC com:
+1. Resumo executivo.
+2. Objetivo do programa de 30 dias.
+3. Premissas do nicho.
+4. Regras de comunicacao segura.
+5. Estrategia por canal.
+6. Funil de leads.
+7. Visao geral das campanhas pagas.
+8. Mapa dos criativos.
+9. Como aprovar os materiais.
+10. Como acompanhar metricas.
+11. Riscos e cuidados Meta.
+12. Link/indice da planilha operacional.
+
+PROGRAMA DE 30 DIAS:
+Dividir em 4 fases:
+
+FASE 1 - DIAS 1 A 7
+Objetivo:
+Organizar autoridade, canais oficiais, aquecer publico e validar criativos.
+
+Foco:
+- explicar como funciona;
+- apresentar Edson;
+- apresentar curadoria;
+- rodar campanhas leves de engajamento/video views;
+- testar ganchos.
+
+FASE 2 - DIAS 8 A 14
+Objetivo:
+Gerar intencao e capturar leads iniciais.
+
+Foco:
+- campanhas de leads ou mensagens;
+- criativos com processo;
+- criativos com privacidade;
+- stories com CTA;
+- remarketing de engajados.
+
+FASE 3 - DIAS 15 A 21
+Objetivo:
+Escalar criativos vencedores e qualificar leads.
+
+Foco:
+- campanhas de leads qualificados;
+- mensagens para WhatsApp;
+- videos com membros autorizados;
+- prova social segura;
+- perguntas frequentes.
+
+FASE 4 - DIAS 22 A 30
+Objetivo:
+Otimizar, reduzir custo por lead qualificado e criar rotina de escala.
+
+Foco:
+- pausar criativos fracos;
+- duplicar vencedores;
+- testar novos ganchos;
+- remarketing;
+- YouTube Shorts;
+- criativos de autoridade.
+
+TIPOS DE CAMPANHA A CONSIDERAR:
+1. Reconhecimento/alcance local ou nacional para aquecer audiencia.
+2. Engajamento em videos de membros autorizados.
+3. Visualizacao de video para criar publico de remarketing.
+4. Leads por formulario, se permitido e aprovado.
+5. Mensagens/WhatsApp para conversa qualificada, se adequado.
+6. Remarketing para pessoas que engajaram, assistiram video, visitaram perfil ou clicaram no link.
+7. YouTube Shorts e video longo para autoridade.
+
+ATENCAO:
+Nao assumir que todas as campanhas podem rodar sem permissao. Verificar politica de dating ads da Meta.
+Se houver risco de bloqueio, propor plano alternativo:
+- campanha de autoridade;
+- campanha de conteudo educativo;
+- campanha de explicacao do processo;
+- campanha para pagina "Como funciona";
+- remarketing mais conservador.
+
+CRITIVOS QUE DEVEM SER CRIADOS:
+1. Estatico institucional: "Como funciona a curadoria".
+2. Estatico de privacidade: "Discricao faz parte do processo".
+3. Estatico de duvidas: "O que a agencia promete e o que nao promete".
+4. Estatico de canais oficiais.
+5. Video curto do Edson explicando processo.
+6. Video curto sobre privacidade.
+7. Video curto com membro autorizado.
+8. Video de prova social segura.
+9. Video para YouTube Shorts.
+10. Video explicativo longo para YouTube.
+
+SAIDA FINAL:
+Entregar tudo de forma extremamente organizada, com texto pronto para copiar e usar.
+Nada generico.
+Cada linha do calendario precisa ter:
+- objetivo;
+- canal;
+- formato;
+- campanha;
+- criativo;
+- gancho;
+- CTA;
+- etapa do funil;
+- risco Meta;
+- metrica principal.
+
+
+============================================================
+PROMPT 2 - PARA GERAR A PLANILHA EXCEL OPERACIONAL
+============================================================
+
+Crie uma planilha Excel operacional para o programa de 30 dias do Edson Cupido / Grupo Anjo Meu / TrueLove.
+
+A planilha deve ser profissional, separada por abas e pronta para uma equipe de marketing executar.
+
+Crie as abas:
+00 LEIA PRIMEIRO
+01 PAINEL GERAL
+02 FUNIL DE LEADS
+03 CALENDARIO MASTER 30 DIAS
+04 META ADS - CAMPANHAS
+05 META ADS - PUBLICOS
+06 CRIATIVOS ESTATICOS
+07 CRIATIVOS VIDEO EON
+08 VIDEOS COM MEMBROS
+09 ORGANICO INSTAGRAM E FACEBOOK
+10 YOUTUBE E SHORTS
+11 WHATSAPP E QUALIFICACAO
+12 METRICAS E OTIMIZACAO
+13 APROVACAO
+14 CHECKLIST META
+
+Regras:
+- cabecalhos claros;
+- colunas praticas;
+- status por item;
+- campo de responsavel;
+- campo de risco Meta;
+- campo de observacao;
+- campo de aprovacao.
+
+O calendario deve ter 30 dias completos.
+Cada dia deve indicar:
+- fase;
+- canal;
+- formato;
+- objetivo;
+- criativo;
+- gancho;
+- CTA;
+- campanha paga relacionada;
+- etapa do funil;
+- metrica principal;
+- risco Meta;
+- status.
+
+Nicho exclusivo:
+relacionamento serio, agencia de namoro, curadoria humana.
+
+Nao usar promessas de resultado afetivo.
+Nao usar linguagem que explore solidao.
+Nao usar "amor garantido", "alma gemea garantida", "casamento garantido" ou "99% de acerto".
+
+
+============================================================
+PROMPT 3 - PARA GERAR O DOC EXECUTIVO
+============================================================
+
+Crie um DOC executivo para apresentar o programa de 30 dias de marketing e trafego pago do Edson Cupido / Grupo Anjo Meu / TrueLove.
+
+O DOC deve ser dinamico, claro e facil de ler.
+Ele nao deve substituir a planilha operacional.
+Ele deve funcionar como guia estrategico e material de aprovacao.
+
+Estrutura:
+1. Resumo executivo.
+2. Objetivo do projeto.
+3. O que estamos vendendo de forma segura.
+4. O que nao podemos prometer.
+5. Estrategia de funil.
+6. Estrategia por canal.
+7. Como os videos de membros entram na campanha.
+8. Como os criativos estaticos entram na campanha.
+9. Como os videos do Eon entram na campanha.
+10. Como o WhatsApp qualifica o lead.
+11. Campanhas Meta sugeridas.
+12. YouTube e Shorts.
+13. Cronograma por fases.
+14. Metricas de sucesso.
+15. Regras de otimizacao.
+16. Riscos Meta e como evitar.
+17. Proximos passos.
+
+Tom:
+consultoria senior, claro, objetivo, sem linguagem generica.
+
+Resultado:
+O leitor precisa entender em 10 minutos:
+- o plano;
+- as campanhas;
+- os criativos;
+- o funil;
+- as responsabilidades;
+- os riscos;
+- como aprovar e acompanhar.
+
+
+============================================================
+PROMPT 4 - PARA CRIATIVOS ESTATICOS NO CHATGPT
+============================================================
+
+Voce e diretor de arte e copywriter de performance.
+
+Crie um criativo estatico para Instagram/Facebook Ads do Edson Cupido / Grupo Anjo Meu / TrueLove.
+
+Nicho:
+curadoria humana para relacionamento serio, atendimento profissional, entrevista, privacidade e processo reservado.
+
+Objetivo do criativo:
+[INSERIR OBJETIVO: autoridade / privacidade / como funciona / duvidas / canais oficiais / lead]
+
+Formato:
+[INSERIR FORMATO: feed 1080x1350 / story 1080x1920 / quadrado 1080x1080]
+
+Publico:
+adultos interessados em relacionamento serio, com busca por um processo mais reservado e criterioso.
+
+Mensagem central:
+[INSERIR MENSAGEM]
+
+Headline:
+Criar uma frase forte, clara e segura.
+
+Regras de copy:
+- nao prometer amor;
+- nao prometer casamento;
+- nao usar "voce esta sozinho";
+- nao afirmar atributo pessoal do usuario;
+- nao explorar vulnerabilidade emocional;
+- vender processo, criterio e privacidade.
+
+Paleta:
+bordô profundo, grafite, dourado champanhe, off-white.
+
+Visual:
+premium, sobrio, humano, discreto, sem exagero romantico.
+
+Entregar:
+1. Headline.
+2. Subheadline.
+3. Texto da arte.
+4. CTA.
+5. Direcao visual.
+6. Prompt de imagem.
+7. Legenda do anuncio.
+8. Risco Meta.
+
+
+============================================================
+PROMPT 5 - PARA VIDEOS NO EON
+============================================================
+
+Voce e roteirista de videos de performance para Reels, TikTok, Shorts e Meta Ads.
+
+Crie um video curto para Edson Cupido / Grupo Anjo Meu / TrueLove.
+
+Objetivo:
+[INSERIR OBJETIVO: atrair leads / explicar curadoria / gerar confianca / remarketing / responder duvida]
+
+Duracao:
+[15s / 30s / 45s]
+
+Formato:
+1080x1920, vertical, ritmo de Reels e Shorts.
+
+Contexto:
+A agencia trabalha com curadoria humana para relacionamento serio, entrevista, privacidade, criterio e atendimento profissional.
+
+Regras:
+- nao prometer resultado afetivo;
+- nao usar "amor garantido";
+- nao usar "alma gemea";
+- nao expor dados pessoais de membros;
+- nao parecer catalogo de pessoas;
+- nao usar linguagem de solidao como isca.
+
+Estrutura do video:
+1. Gancho nos primeiros 3 segundos.
+2. Contexto rapido.
+3. Explicacao ou prova segura.
+4. Virada de valor.
+5. CTA leve.
+
+Entregar:
+1. Gancho.
+2. Roteiro falado.
+3. Texto na tela.
+4. Sugestao de cenas.
+5. B-roll.
+6. CTA.
+7. Legenda.
+8. Risco Meta.
+9. Versao alternativa mais conservadora.
+
+
+============================================================
+PROMPT 6 - PARA VIDEOS COM MEMBROS DA AGENCIA
+============================================================
+
+Voce e diretor de entrevista e roteirista de conteudo sensivel para uma agencia de relacionamento serio.
+
+Crie um roteiro de video com membro autorizado da agencia Edson Cupido / Grupo Anjo Meu / TrueLove.
+
+Objetivo:
+Apresentar a pessoa com dignidade, privacidade e intencao, sem parecer catalogo humano e sem explorar vulnerabilidade emocional.
+
+Regras:
+- usar apenas pessoa autorizada;
+- nao expor dados desnecessarios;
+- evitar renda, endereco, detalhes intimos e vulnerabilidade;
+- nao usar "solitario", "abandonado", "ninguem quer", "encalhado";
+- nao prometer que a pessoa vai encontrar relacionamento;
+- nao chamar o publico com "voce esta sozinho?".
+
+Perguntas seguras:
+- O que voce valoriza em uma relacao?
+- Que tipo de convivencia faz sentido para sua fase de vida?
+- O que significa companheirismo para voce?
+- O que voce considera importante antes de conhecer alguem?
+- Por que um processo mais reservado faz sentido para voce?
+
+Perguntas a evitar:
+- Por que voce esta sozinho?
+- Ha quanto tempo voce esta sozinho?
+- Voce tem medo de ficar sozinho?
+- Por que ninguem quer nada serio?
+- Voce ganha quanto?
+- Onde voce mora exatamente?
+
+Entregar:
+1. Perguntas seguras.
+2. Roteiro ideal de 30 segundos.
+3. Corte de 15 segundos.
+4. Texto na tela.
+5. Legenda.
+6. CTA.
+7. O que cortar se a pessoa falar demais.
+8. Risco Meta.
+
+
+============================================================
+PROMPT 7 - PARA REVISAO FINAL META E PERFORMANCE
+============================================================
+
+Revise este planejamento de campanhas, criativos e calendario de 30 dias para Edson Cupido / Grupo Anjo Meu / TrueLove.
+
+Analise como especialista em:
+- Meta Ads;
+- politicas de anuncios;
+- dating ads;
+- personal attributes;
+- privacidade;
+- performance criativa;
+- funil de leads;
+- social media.
+
+Classifique cada item como:
+- APROVADO;
+- REVISAR;
+- ALTO RISCO;
+- REMOVER;
+- PRECISA DE PERMISSAO/VALIDACAO.
+
+Para cada risco, explique:
+- qual e o problema;
+- por que pode afetar conta ou performance;
+- como reescrever;
+- qual versao segura usar.
+
+Checklist obrigatorio:
+- promete resultado afetivo?
+- implica atributo pessoal do usuario?
+- explora solidao?
+- expõe pessoa/membro demais?
+- usa dados sensiveis?
+- parece catalogo de pessoas?
+- tem CTA agressivo?
+- precisa permissao para dating ads?
+- destino/landing page esta coerente?
+- texto, imagem e video estao alinhados?
+
+Entregue a versao corrigida e pronta para aprovacao.
+
